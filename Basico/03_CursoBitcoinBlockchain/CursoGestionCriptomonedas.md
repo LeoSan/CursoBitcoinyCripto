@@ -65,3 +65,41 @@ Buscan más escalabilidad a las redes de primera capa. Pueden procesar hasta 100
 
 > Cierto tiempo  La capa 2 reune mucha información y se manda a la Capa 1
 
+
+
+## Clase 13:  ¿Qué son los criptoactivos? 
+
+criptoMonedas + Tokens = CRIPTOACTIVOS 
+
+**¿Qué son los criptoactivos?**
+
+> Criptomonedas.
+
+- Unidad de cuenta de una red blockchain.
+- Medio de incentivo para sus mineros/validadores.
+- Pago de comisiones.
+- Política monetaria propia de cada red.
+
+> Tokens
+
+- Se crean mediante contratos inteligentes (programación).
+- Se usa para casos específicos (representación de un bien digital o analogo, criptoarte, etc.)
+- Se pueden utilizar para representar diferentes valores.
+- Política monetaria depende de quién lo creó (tokenomics).
+- La unión de las criptomonedas con los tokens, genera este termino.
+
+**Diferencia**
+
+- Diferencia entre Tokens y Criptomonedas
+
+Las Criptomonedas (coin) corren en su propia red o bajo su propio BlockChain y se generan a partir del trabajo de los mineros (en redes como Bitcoin y Ethereum) o los validadores ( en redes como solana y cardano).
+
+Los Tokens son monedas generados por medio de contratos inteligentes y corren bajo la red o BlockChain ajenas un ejemplo son Shiba Inu (red de Ethereum) y CRO (red de Ethereum); la generación de nuevos Tokens está a discreción de su creador o (Tokenomics).
+
+
+### Reflexiones: 
+
+> La gente utiliza la palabra “Token” como un genérico de criptoactivos. Supongo que entonces sí, es más bien tema de ignorancia. Sin embargo, esa distinción no tiene mayor relevancia para la mayor parte de las personas, que piensan que el mundo cripto consiste en gastar dinero en un activo y esperar a ver que pasa, sin analizar mucho los fundamentales ni hacer análisis técnico.
+
+
+## Clase 14:  Tipos y clasificación de criptoactivos
